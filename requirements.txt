@@ -1,0 +1,30 @@
+# --- Manejo de Datos y Matemáticas ---
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.10.0
+
+# --- Visualización ---
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# --- Machine Learning Clásico ---
+scikit-learn>=1.2.0
+
+# --- Deep Learning (PyTorch) ---
+torch
+torchvision
+torchaudio
+
+# --- Entorno de Desarrollo (Notebooks) ---
+jupyterlab>=4.0.0
+notebook>=7.0.0
+ipykernel
+
+# --- Deep Learning (TensorFlow / Keras) ---
+tensorflow
+keras
+
+# --- Utilidades ---
+tqdm        # Barras de progreso (muy útil para entrenamientos largos)
+pillow      # Procesamiento de imágenes
+requests    # Peticiones HTTP
