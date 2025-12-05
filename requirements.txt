@@ -21,7 +21,8 @@ notebook>=7.0.0
 ipykernel
 
 # --- Deep Learning (TensorFlow / Keras) ---
-tensorflow
+tensorflow==2.15.1
+tensorflow-metal==1.1.0
 keras
 
 # --- Utilidades ---
