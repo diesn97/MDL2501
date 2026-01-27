@@ -24,6 +24,7 @@ ipykernel
 tensorflow==2.15.1
 tensorflow-metal==1.1.0
 keras
+keras-tuner
 
 # --- Utilidades ---
 tqdm        # Barras de progreso (muy útil para entrenamientos largos)
